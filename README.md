@@ -1,5 +1,5 @@
 <h3><i>hello!</i> 𝜗𝜚 ‧₊˚ ⊹</h3>
-<img src="pink.png" width="1000px" height="15px"/>
+<img src="fbc7c7.png" width="1000px" height="15px"/>
 <img src="keyboard.jpg" width="300" align="left" alt="keyboard"/>
 
 <h3>W͏E͏L͏C͏O͏M͏E͏ T͏O͏ M͏Y͏ G͏I͏T͏H͏U͏B͏ ₊˚⊹♡</h3>
