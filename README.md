@@ -16,10 +16,10 @@ Let’s connect at celextialcomet@gmail.com or my <a href="https://www.linkedin.
 <img src="fbc7c7.png" width="1000px" height="15px"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=celestialcomets&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&hide=prs,issues&show_icons=true&icon_color=fbc7c7&include_all_commits=true&custom_title=katie's%20github%20stats%20✧₊⁺"/>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=celestialcomets&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&hide=prs,issues&show_icons=true&icon_color=fbc7c7&include_all_commits=true&custom_title=katie's%20github%20stats%20✧₊⁺"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestialcomets&layout=compact&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&custom_title=katie's%20most%20used%20languages%20✧₊⁺""/>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestialcomets&layout=compact&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&custom_title=katie's%20most%20used%20languages%20✧₊⁺""/>
 </a>
 
 
