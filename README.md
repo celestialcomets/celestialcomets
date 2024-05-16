@@ -8,8 +8,20 @@
 
 Hey there! I'm Katie, a dedicated and detail-oriented senior at the University of Houston studying Computer Information Systems with a minor in Data Science. I'm currently interested in AI engineering, data engineering, and data analyzing!
 <br><br>
-Let’s connect at celextialcomet@gmail.com or my <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a>!
+Let’s connect at celextialcomet@gmail.com or my <a href="https://www.linkedin.com/in/katiedto">LinkedIn</a>!
 <br clear="left"/>
+<br>
+
+<h3><i>stats!</i> ₊˚⊹♡</h3>
+<img src="fbc7c7.png" width="1000px" height="15px"/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=celestialcomets&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&hide=prs,issues&show_icons=true&icon_color=fbc7c7&include_all_commits=true&custom_title=katie's%20github%20stats%20✧₊⁺"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestialcomets&layout=compact&title_color=9ebdc1&border_color=bcced0&text_color=fbc7c7&custom_title=katie's%20most%20used%20languages%20✧₊⁺""/>
+</a>
+
 
 <!--
 **celestialcomets/celestialcomets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
