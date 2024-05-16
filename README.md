@@ -10,7 +10,6 @@ Hey there! I'm Katie, a dedicated and detail-oriented senior at the University o
 <br><br>
 Let’s connect at celextialcomet@gmail.com or my <a href="https://www.linkedin.com/in/katiedto">LinkedIn</a>!
 <br clear="left"/>
-<br>
 
 <h3><i>stats!</i> ₊˚⊹♡</h3>
 <img src="fbc7c7.png" width="1000px" height="15px"/>
